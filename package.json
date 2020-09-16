@@ -1,5 +1,23 @@
 {
   "devDependencies": {
     "typescript": "^4.0.2"
-  }
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ticotheps/typescript.git"
+  },
+  "author": "Tico S. Thepsourinthone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ticotheps/typescript/issues"
+  },
+  "homepage": "https://github.com/ticotheps/typescript#readme",
+  "description": ""
 }
